@@ -38,7 +38,7 @@ This mini project predicts the presence of heart disease using machine learning.
    pip install notebook pandas numpy matplotlib seaborn scikit-learn
    ```
 
-3. Launch Jupyter Notebook:
+3. Launch Jupyter Notebook.
 
 4. Open the `heart.ipynb` file from the Jupyter interface.
 
