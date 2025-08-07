@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
 This mini project predicts the presence of heart disease using machine learning. A **Random Forest Classifier** is trained on patient data to classify whether heart disease is likely or not.
 
