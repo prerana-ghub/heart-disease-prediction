@@ -42,6 +42,6 @@ This mini project predicts the presence of heart disease using machine learning.
 
 4. Open the `heart.ipynb` file from the Jupyter interface.
 
-5. **Upload the `heart.csv` file manually into the Jupyter Notebook folder** (same directory as the notebook).
+5. Upload the `heart.csv` file manually into the Jupyter Notebook folder (same directory as the notebook).
 
 6. Run all cells to view the predictions, visualizations, and accuracy metrics.
