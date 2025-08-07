@@ -1,4 +1,5 @@
-#  Heart Disease Prediction using Machine Learning
+````markdown
+# 🫀 Heart Disease Prediction using Machine Learning
 
 This mini project predicts the presence of heart disease using machine learning. A **Random Forest Classifier** is trained on patient data to classify whether heart disease is likely or not.
 
@@ -29,6 +30,7 @@ This mini project predicts the presence of heart disease using machine learning.
    ```bash
    git clone https://github.com/your-username/heart-disease-prediction_model.git
    cd heart-disease-prediction_model
+````
 
 2. Make sure you have Python and Jupyter installed. If not, install:
 
@@ -44,4 +46,18 @@ This mini project predicts the presence of heart disease using machine learning.
 
 4. Open the `heart.ipynb` file from the Jupyter interface.
 
-5. Run all cells to view the predictions, visualizations, and accuracy metrics.
+5. **Upload the `heart.csv` file manually into the Jupyter Notebook folder** (same directory as the notebook).
+
+6. Run all cells to view the predictions, visualizations, and accuracy metrics.
+
+---
+
+## ✅ Sample Output
+
+* Accuracy: \~85% (may vary by run)
+* Confusion matrix and top feature importances are visualized.
+
+```
+
+Let me know if you also want a `requirements.txt` or `.gitignore` file added.
+```
